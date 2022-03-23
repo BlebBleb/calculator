@@ -6,4 +6,4 @@ Java 17 or higher.
 1.click on Code 
 2.click on download as zip 
 3.Import it into your ide project folders
-#Hope you have a wonderfulday!
+# Hope you have a wonderfulday!
