@@ -1,7 +1,7 @@
 # Calculator
 Very basic Java Calculator Ran in consel.
 # Requirements 
-Java 17 or higher.
+Java 8 or higher.
 # Installation 
 1.click on Code 
 
